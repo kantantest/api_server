@@ -51,3 +51,4 @@ func writeResponse(writer http.ResponseWriter, responseString string) {
 		fmt.Println(err)
 	}
 }
+export AWS_ACCESS_KEY_ID=AKIAWXA4ZABWIDQEESML
