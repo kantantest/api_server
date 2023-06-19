@@ -53,3 +53,4 @@ func writeResponse(writer http.ResponseWriter, responseString string) {
 }
 some text
 some text
+some text
